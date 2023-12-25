@@ -1,0 +1,9 @@
+2023-12-24 22:33:47.317 [info] Extension host with pid 62394 started
+2023-12-24 22:33:47.317 [info] Skipping acquiring lock for /Users/local/moonbeam/Library/Application Support/Code/User/workspaceStorage/58a48dd85e8c2bac478c10d16a2bb498.
+2023-12-24 22:33:48.313 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-12-24 22:33:49.710 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-12-24 22:33:49.778 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-24 22:33:51.036 [info] Eager extensions activated
+2023-12-24 22:33:52.645 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-24 22:33:52.652 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-24 22:33:52.671 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'

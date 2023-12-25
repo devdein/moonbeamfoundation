@@ -1,0 +1,72 @@
+2023-12-24 22:04:49.212 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'registerIssueDataProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-12-24 22:04:50.211 [info] Started local extension host with pid 52503.
+2023-12-24 22:04:50.437 [info] Started initializing default profile extensions in extensions installation folder. file:///Users/local/moonbeam/.vscode/extensions
+2023-12-24 22:04:51.617 [info] Completed initializing default profile extensions in extensions installation folder. file:///Users/local/moonbeam/.vscode/extensions
+2023-12-24 22:04:57.050 [info] [perf] Render performance baseline is 57ms
+2023-12-24 22:10:05.330 [error] Download: net::ERR_NAME_NOT_RESOLVED
+    at d.download (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:81:16857)
+    at async te.x (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:121718)
+    at async te.h (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:119735)
+2023-12-24 22:10:05.633 [error] net::ERR_NAME_NOT_RESOLVED: Download: net::ERR_NAME_NOT_RESOLVED
+    at d.download (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:81:16857)
+    at async te.x (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:121718)
+    at async te.h (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:119735)
+2023-12-24 22:10:34.751 [error] Download: net::ERR_NAME_NOT_RESOLVED
+    at d.download (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:81:16857)
+    at async te.x (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:121718)
+    at async te.h (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:119735)
+2023-12-24 22:10:35.152 [error] Download: net::ERR_NAME_NOT_RESOLVED
+    at d.download (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:81:16857)
+    at async te.x (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:121718)
+    at async te.h (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:119735)
+2023-12-24 22:10:35.381 [error] Error: Extension ms-python.vscode-pylance is not installed
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:66987
+    at async Promise.allSettled (index 0)
+    at async Y.M (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:70356)
+    at async Y.J (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:69329)
+    at async /Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:64829
+    at async Promise.allSettled (index 0)
+    at async Y.I (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:64776)
+    at async Y.installGalleryExtensions (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:63225)
+    at async Y.installFromGallery (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:62546)
+2023-12-24 22:10:35.391 [error] net::ERR_NAME_NOT_RESOLVED: Download: net::ERR_NAME_NOT_RESOLVED
+    at d.download (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:81:16857)
+    at async te.x (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:121718)
+    at async te.h (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:119735)
+2023-12-24 22:10:36.225 [error] Download: net::ERR_NAME_NOT_RESOLVED
+    at d.download (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:81:16857)
+    at async te.x (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:121718)
+    at async te.h (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:119735)
+2023-12-24 22:10:36.524 [error] net::ERR_NAME_NOT_RESOLVED: Download: net::ERR_NAME_NOT_RESOLVED
+    at d.download (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:81:16857)
+    at async te.x (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:121718)
+    at async te.h (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:119735)
+2023-12-24 22:10:36.535 [error] Extension ms-python.vscode-pylance is not installed: Error: Extension ms-python.vscode-pylance is not installed
+    at /Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:66987
+    at async Promise.allSettled (index 0)
+    at async Y.M (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:70356)
+    at async Y.J (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:69329)
+    at async /Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:64829
+    at async Promise.allSettled (index 0)
+    at async Y.I (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:64776)
+    at async Y.installGalleryExtensions (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:63225)
+    at async Y.installFromGallery (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:62546)
+2023-12-24 22:10:36.591 [error] net::ERR_NAME_NOT_RESOLVED: Download: net::ERR_NAME_NOT_RESOLVED
+    at d.download (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:81:16857)
+    at async te.x (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:121718)
+    at async te.h (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:119735)
+2023-12-24 22:30:40.495 [error] [text file model] handleSaveError(124) - exit - resulted in a save error: Error: Unable to write file '/Users/local/moonbeam/.bash_profile' (Error: File Modified Since) file:///Users/local/moonbeam/.bash_profile
+2023-12-24 22:38:21.639 [info] Extension host (LocalProcess pid: 52503) is unresponsive.
+2023-12-24 22:38:21.998 [info] Extension host (LocalProcess pid: 52503) is responsive.
+2023-12-24 22:38:22.000 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-12-24 22:38:40.567 [info] Extension host (LocalProcess pid: 52503) is unresponsive.
+2023-12-24 22:38:42.872 [info] Extension host (LocalProcess pid: 52503) is responsive.
+2023-12-24 22:38:42.983 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-12-24 22:38:45.886 [info] Extension host (LocalProcess pid: 52503) is unresponsive.
+2023-12-24 22:38:46.418 [info] Extension host (LocalProcess pid: 52503) is responsive.
+2023-12-24 22:38:46.419 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-12-24 22:38:47.304 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-12-24 22:38:56.646 [info] Extension host (LocalProcess pid: 52503) is unresponsive.
+2023-12-24 22:38:58.767 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-12-24 22:38:59.375 [info] Extension host (LocalProcess pid: 52503) is responsive.
+2023-12-24 22:38:59.388 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session

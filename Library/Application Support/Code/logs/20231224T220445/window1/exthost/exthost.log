@@ -1,0 +1,31 @@
+2023-12-24 22:04:52.315 [info] Extension host with pid 52503 started
+2023-12-24 22:04:52.327 [info] Skipping acquiring lock for /Users/local/moonbeam/Library/Application Support/Code/User/workspaceStorage/3f820081b1b38cdf199b1b2e20bafbe0.
+2023-12-24 22:04:52.560 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-12-24 22:04:52.573 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2023-12-24 22:04:52.844 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-24 22:04:53.164 [info] Eager extensions activated
+2023-12-24 22:04:53.240 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-24 22:04:53.244 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-24 22:04:59.407 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-12-24 22:05:00.966 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-12-24 22:05:01.076 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-12-24 22:05:01.443 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-24 22:05:43.011 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2023-12-24 22:05:58.554 [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onView:dockerContainers'
+2023-12-24 22:06:32.808 [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.pwa-node-debug.attachNodeProcess'
+2023-12-24 22:36:35.210 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2023-12-24 22:37:42.556 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3657
+2023-12-24 22:37:45.684 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3657
+2023-12-24 22:37:50.169 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3657
+2023-12-24 22:37:56.509 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3657
+2023-12-24 22:38:01.819 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3657
+2023-12-24 22:38:10.153 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3657
+2023-12-24 22:38:18.574 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3658
+2023-12-24 22:38:25.719 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3660
+2023-12-24 22:38:31.026 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3665
+2023-12-24 22:38:37.730 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3680
+2023-12-24 22:38:48.069 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3682
+2023-12-24 22:38:53.597 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3681
+2023-12-24 22:39:00.368 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3295
+2023-12-24 22:39:06.502 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3285
+2023-12-24 22:39:11.643 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3285

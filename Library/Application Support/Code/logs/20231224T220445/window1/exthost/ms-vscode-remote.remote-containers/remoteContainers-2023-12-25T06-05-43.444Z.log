@@ -1,0 +1,21 @@
+[2023-12-25T06:07:54.921Z] Start: Run: docker version --format {{.Server.APIVersion}}
+[2023-12-25T06:07:54.921Z] Dev Containers 0.327.0 in VS Code 1.85.1 (0ee08df0cf4527e40edc9aa28f4b5bd38bbff2b2).
+[2023-12-25T06:07:55.180Z] Stop (259 ms): Run: docker version --format {{.Server.APIVersion}}
+[2023-12-25T06:07:55.180Z] 1.44
+[2023-12-25T06:07:55.193Z] Start: Run: docker -v
+[2023-12-25T06:07:55.329Z] Stop (136 ms): Run: docker -v
+[2023-12-25T06:07:55.330Z] Start: Run: docker events --format {{json .}} --filter event=create --filter event=destroy --filter event=die --filter event=health-status --filter event=kill --filter event=pause --filter event=rename --filter event=resize --filter event=restart --filter event=start --filter event=stop --filter event=unpause --filter event=update --filter event=exec_create
+[2023-12-25T06:07:55.340Z] Start: Run: docker ps -q -a
+[2023-12-25T06:07:55.346Z] Start: Run: docker version --format {{.Server.APIVersion}}
+[2023-12-25T06:07:55.748Z] Stop (402 ms): Run: docker version --format {{.Server.APIVersion}}
+[2023-12-25T06:07:55.748Z] 1.44
+[2023-12-25T06:07:55.749Z] Start: Run: docker -v
+[2023-12-25T06:07:55.897Z] Stop (557 ms): Run: docker ps -q -a
+[2023-12-25T06:07:55.902Z] Start: Run: docker inspect --type container e9ba6a7394d0
+[2023-12-25T06:07:55.938Z] Stop (189 ms): Run: docker -v
+[2023-12-25T06:07:55.939Z] Start: Run: docker events --format {{json .}} --filter event=destroy --filter event=die --filter event=kill --filter event=create --filter event=rename --filter event=resize --filter event=restart --filter event=start --filter event=stop --filter event=unpause --filter event=prune
+[2023-12-25T06:07:55.951Z] Start: Run: docker volume ls -q
+[2023-12-25T06:07:56.319Z] Stop (417 ms): Run: docker inspect --type container e9ba6a7394d0
+[2023-12-25T06:07:56.381Z] Stop (430 ms): Run: docker volume ls -q
+[2023-12-25T06:07:56.382Z] Start: Run: docker inspect --type volume 470a8f7a7440cbaa4a861fbcc87bef488c695ad3f48421ad4aeef75a4e612dc7 gitlab-runner-config
+[2023-12-25T06:07:56.616Z] Stop (234 ms): Run: docker inspect --type volume 470a8f7a7440cbaa4a861fbcc87bef488c695ad3f48421ad4aeef75a4e612dc7 gitlab-runner-config

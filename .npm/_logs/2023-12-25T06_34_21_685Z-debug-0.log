@@ -1,0 +1,79 @@
+0 verbose cli /Users/local/.nvm/versions/node/v16.20.2/bin/node /Users/local/.nvm/versions/node/v16.20.2/bin/npm
+1 info using npm@8.19.4
+2 info using node@v16.20.2
+3 timing npm:load:whichnode Completed in 0ms
+4 timing config:load:defaults Completed in 7ms
+5 timing config:load:file:/Users/local/.nvm/versions/node/v16.20.2/lib/node_modules/npm/npmrc Completed in 2ms
+6 timing config:load:builtin Completed in 3ms
+7 timing config:load:cli Completed in 22ms
+8 timing config:load:env Completed in 2ms
+9 timing config:load:project Completed in 34ms
+10 timing config:load:file:/Users/local/moonbeam/.npmrc Completed in 19ms
+11 timing config:load:user Completed in 22ms
+12 timing config:load:file:/Users/local/.nvm/versions/node/v16.20.2/etc/npmrc Completed in 1ms
+13 timing config:load:global Completed in 1ms
+14 timing config:load:validate Completed in 1ms
+15 timing config:load:credentials Completed in 4ms
+16 timing config:load:setEnvs Completed in 2ms
+17 timing config:load Completed in 112ms
+18 timing npm:load:configload Completed in 113ms
+19 timing npm:load:mkdirpcache Completed in 4ms
+20 timing npm:load:mkdirplogs Completed in 2ms
+21 verbose title npm install yarn
+22 verbose argv "install" "yarn" "--global"
+23 timing npm:load:setTitle Completed in 60ms
+24 timing config:load:flatten Completed in 19ms
+25 timing npm:load:display Completed in 26ms
+26 verbose logfile logs-max:10 dir:/Users/local/moonbeam/.npm/_logs
+27 verbose logfile /Users/local/moonbeam/.npm/_logs/2023-12-25T06_34_21_685Z-debug-0.log
+28 timing npm:load:logFile Completed in 22ms
+29 timing npm:load:timers Completed in 0ms
+30 timing npm:load:configScope Completed in 0ms
+31 timing npm:load Completed in 229ms
+32 timing arborist:ctor Completed in 3ms
+33 silly logfile done cleaning log files
+34 timing idealTree:init Completed in 53ms
+35 timing idealTree:userRequests Completed in 15ms
+36 silly idealTree buildDeps
+37 silly fetch manifest yarn@*
+38 http fetch GET 200 https://registry.npmjs.org/yarn 6356ms (cache miss)
+39 silly placeDep ROOT yarn@1.22.21 OK for:  want: *
+40 timing idealTree:#root Completed in 6397ms
+41 timing idealTree:node_modules/yarn Completed in 0ms
+42 timing idealTree:buildDeps Completed in 6400ms
+43 timing idealTree:fixDepFlags Completed in 3ms
+44 timing idealTree Completed in 6479ms
+45 timing reify:loadTrees Completed in 6492ms
+46 timing reify:diffTrees Completed in 3ms
+47 silly reify moves {}
+48 timing reify:retireShallow Completed in 4ms
+49 timing reify:createSparse Completed in 38ms
+50 timing reify:loadBundles Completed in 0ms
+51 silly audit bulk request { yarn: [ '1.22.21' ] }
+52 silly tarball no local data for yarn@https://registry.npmjs.org/yarn/-/yarn-1.22.21.tgz. Extracting by manifest.
+53 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 442ms
+54 timing auditReport:getReport Completed in 466ms
+55 silly audit report {}
+56 timing auditReport:init Completed in 0ms
+57 timing reify:audit Completed in 468ms
+58 http fetch GET 200 https://registry.npmjs.org/yarn/-/yarn-1.22.21.tgz 6651ms (cache miss)
+59 timing reifyNode:node_modules/yarn Completed in 6686ms
+60 timing reify:unpack Completed in 6686ms
+61 timing reify:unretire Completed in 1ms
+62 timing build:queue Completed in 10ms
+63 info run yarn@1.22.21 preinstall node_modules/yarn :; (node ./preinstall.js > /dev/null 2>&1 || true)
+64 info run yarn@1.22.21 preinstall { code: 0, signal: null }
+65 timing build:run:preinstall:node_modules/yarn Completed in 6878ms
+66 timing build:run:preinstall Completed in 6881ms
+67 timing build:link:node_modules/yarn Completed in 19ms
+68 timing build:link Completed in 21ms
+69 timing build:deps Completed in 6915ms
+70 timing build Completed in 6916ms
+71 timing reify:build Completed in 6917ms
+72 timing reify:trash Completed in 0ms
+73 timing reify Completed in 20287ms
+74 silly ADD node_modules/yarn
+75 timing command:install Completed in 20337ms
+76 verbose exit 0
+77 timing npm Completed in 21032ms
+78 info ok
